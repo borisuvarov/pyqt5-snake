@@ -1,2 +1,2 @@
 # pyqt5-snake
-PyQT5 Snake Game
+Simple PyQT5 Snake Game. Soon I will turn this crap into a superb indie masterpiece, I promise. :-)
